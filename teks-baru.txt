@@ -12,5 +12,5 @@
 -menambahkan fungsi menu
 -mengganti jumbotron
 -menambahkan navigasi
--membuat konten di elemen
--membuat konten di div
+-membuat konten di body
+-membuat konten di header dikepala
