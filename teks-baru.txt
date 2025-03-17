@@ -10,3 +10,4 @@
 -aku ingin mencoba belajar html
 -aku ingin membeli ps 2
 -menambahkan fungsi menu
+-mengganti jumbotron
