@@ -12,3 +12,4 @@
 -menambahkan fungsi menu
 -mengganti jumbotron
 -menambahkan navigasi
+-membuat konten di header
