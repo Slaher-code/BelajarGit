@@ -4,4 +4,4 @@
 -aku ingin menambah lagi
 -aku mengedit footer di github
 -aku sudah mengoreksi konflik footer
--coba periksa lagi dlokal zuma
+-coba periksa lagi dilokal zuma79
