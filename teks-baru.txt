@@ -1,0 +1,4 @@
+-Menambahkan teks
+-Untuk diperiksa di lokal
+-aku ternyata ingin mengecek di github
+-aku ingin menambah lagi
