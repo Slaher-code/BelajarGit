@@ -7,4 +7,4 @@
 -coba periksa lagi dilokal zuma79
 -aku sudah menambahkan konten di main
 -aku menambahkan untuk dicek fetch
--aku ingin mencoba belajar 
+-aku ingin mencoba belajar html
