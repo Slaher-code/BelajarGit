@@ -2,4 +2,5 @@
 -Untuk diperiksa di lokal
 -aku ternyata ingin mengecek di github
 -aku ingin menambah lagi
--aku menambah footer di lokal
+-aku mengedit footer di github
+-aku sudah mengoreksi konflik footer
