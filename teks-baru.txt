@@ -1,3 +1,2 @@
 -Menambahkan teks
 -Untuk diperiksa di lokal
-oow ya, aku sudah menambahkan perintah baru di footer.
