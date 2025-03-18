@@ -14,3 +14,4 @@
 -menambahkan navigasi
 -membuat konten di body
 -membuat konten di header dikepala
+-mengecek konten blok 1
