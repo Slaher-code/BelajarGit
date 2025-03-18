@@ -15,3 +15,5 @@
 -membuat konten di body
 -membuat konten di header dikepala
 -mengecek konten blok 1
+-aku sudah mengoreksi konflik mantab
+
